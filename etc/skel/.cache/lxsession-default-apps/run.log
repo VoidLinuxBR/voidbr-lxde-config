@@ -1,0 +1,101 @@
+Gtk-[1;32mMessage[0m: [34m11:45:15.052[0m: Failed to load module "colorreload-gtk-module"
+Gtk-[1;32mMessage[0m: [34m11:45:15.052[0m: Failed to load module "window-decorations-gtk-module"
+** [1;32mMessage[0m: [34m11:45:15.061[0m: utils.vala:30: config_path_directory: /home/anon/.config/lxsession-default-apps
+** Message: 11:45:15.148: desktop-files-backend.vala:171: test config_path: /home/anon/.config/lxsession-default-apps/settings.conf
+** Message: 11:45:15.148: desktop-files-backend.vala:237: Scanning folder: /usr/share/applications
+** Message: 11:45:15.148: desktop-files-backend.vala:287: Start scanning
+
+** Message: 11:45:15.148: desktop-files-backend.vala:265: /usr/share/app-install/desktop doesn't exist. Pass
+** Message: 11:45:15.148: desktop-files-backend.vala:209: Signal finish scanning available with mode: write
+** Message: 11:45:15.154: desktop-files-backend.vala:189: Signal finish scanning installed with mode: write
+** Message: 11:45:15.160: desktop-files-backend.vala:342: Finishing scanning
+
+
+(lxsession-default-apps:1584): Gtk-[1;33mWARNING[0m **: [34m11:45:15.276[0m: Attempting to add a widget with type GtkVBox to a container of type LDefaultAppsMainWindows, but the widget is already inside a container of type GtkWindow, please remove the widget from its existing container first.
+** [1;32mMessage[0m: [34m11:45:15.301[0m: autostart.vala:86: Conf file for autostart: /home/anon/.config/lxsession/LXDE/autostart
+** [1;32mMessage[0m: [34m11:45:15.301[0m: autostart.vala:103: Autostart conf file : /home/anon/.config/lxsession/LXDE/autostart
+** [1;32mMessage[0m: [34m11:45:15.301[0m: autostart.vala:116: Autostart line : @lxpanel --profile LXDE
+** [1;32mMessage[0m: [34m11:45:15.303[0m: autostart.vala:116: Autostart line : @pcmanfm --desktop --profile LXDE
+** [1;32mMessage[0m: [34m11:45:15.303[0m: autostart.vala:116: Autostart line : @xscreensaver -no-splash
+
+(lxsession-default-apps:1584): Gtk-[1;33mWARNING[0m **: [34m11:45:15.304[0m: Attempting to add a widget with type GtkVBox to a container of type GtkAlignment, but the widget is already inside a container of type GtkAlignment, please remove the widget from its existing container first.
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.306[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.306[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.307[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.309[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.309[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.309[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.309[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.309[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.309[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.310[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.310[0m: combobox.vala:443: Default = lxterminal
+** [1;32mMessage[0m: [34m11:45:15.310[0m: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.310[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.310[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.310[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.310[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.310[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.311[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.315[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.315[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.316[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.318[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.318[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.318[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.318[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.318[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.319[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.319[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.319[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.319[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.320[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.320[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.320[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.320[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.320[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.320[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.322[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.322[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.322[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.323[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.323[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.323[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.323[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.323[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.323[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.324[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.324[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.324[0m: combobox.vala:503: Iter == 0
+
+** (lxsession-default-apps:1584): [1;33mWARNING[0m **: [34m11:45:15.326[0m: combobox.vala:700: Arquivo de chave não tem grupo “Mime”
+** [1;32mMessage[0m: [34m11:45:15.326[0m: combobox.vala:443: Default = 
+** [1;32mMessage[0m: [34m11:45:15.326[0m: combobox.vala:503: Iter == 0
+** [1;32mMessage[0m: [34m11:45:15.330[0m: combobox.vala:728: Default = no
+** [1;32mMessage[0m: [34m11:45:15.330[0m: combobox.vala:765: Iter == 0
+** [1;32mMessage[0m: [34m11:45:15.330[0m: combobox.vala:684:  Return value for no
+** [1;32mMessage[0m: [34m11:45:15.334[0m: combobox.vala:728: Default = 
+** [1;32mMessage[0m: [34m11:45:15.334[0m: combobox.vala:765: Iter == 0
+
+(lxsession-default-apps:1584): GLib-GObject-[1;35mCRITICAL[0m **: [34m11:45:15.336[0m: invalid (NULL) pointer instance
+
+(lxsession-default-apps:1584): GLib-GObject-[1;35mCRITICAL[0m **: [34m11:45:15.336[0m: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+** [1;32mMessage[0m: [34m11:45:15.337[0m: combobox.vala:728: Default = 
+** [1;32mMessage[0m: [34m11:45:15.339[0m: combobox.vala:728: Default = 
+** [1;32mMessage[0m: [34m11:45:15.340[0m: combobox.vala:765: Iter == 0
