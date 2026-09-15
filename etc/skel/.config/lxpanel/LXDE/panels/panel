@@ -9,14 +9,16 @@ Global {
   width=100
   height=30
   transparent=0
-  tintcolor=#000000
-  alpha=0
+  tintcolor=#3d3846
+  alpha=255
   setdocktype=1
   setpartialstrut=1
   usefontcolor=1
   fontcolor=#ffffff
   background=1
   backgroundfile=/usr/share/lxpanel/images/background.png
+  iconsize=36
+  monitor=-1
 }
 Plugin {
   type=menu
@@ -45,6 +47,9 @@ Plugin {
     }
     Button {
       id=firefox.desktop
+    }
+    Button {
+      id=xfce4-terminal.desktop
     }
   }
 }
@@ -94,6 +99,7 @@ Plugin {
     FlatButton=0
     MaxTaskWidth=150
     spacing=1
+    GroupedTasks=1
   }
 }
 Plugin {

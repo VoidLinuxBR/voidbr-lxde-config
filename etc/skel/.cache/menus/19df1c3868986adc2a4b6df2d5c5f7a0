@@ -1,0 +1,1471 @@
+1.2
+lxde-applications.menu+hidden
+14
+D/home/vcatafesta/.local/share/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/desktop-directories
+D/usr/share/gdm/desktop-directories
+D/var/lib/menu-xdg/desktop-directories
+D/home/vcatafesta/.local/share/applications
+D/usr/local/share/applications
+D/usr/share/applications
+D/usr/share/gdm/applications
+D/var/lib/menu-xdg/applications
+D/etc/xdg/menus/applications-merged
+D/home/vcatafesta/.config/menus/applications-merged
+F/home/vcatafesta/.config/menus/lxde-applications.menu
+F/etc/xdg/menus/lxde-applications.menu
+MATE;Unity;
++Applications
+Aplicativos
+Menu de Aplicações
+applications-other
+lxde-menu-applications.directory
+2
+0
++Universal Access
+Acessibilidade
+Configurações de acessibilidade
+preferences-desktop-accessibility
+lxde-utility-accessibility.directory
+2
+4
+
++Accessories
+Acessórios
+Acessórios da área de trabalho
+applications-accessories
+lxde-utility.directory
+2
+0
+-mate-calc.desktop
+Calculadora do MATE
+Efetue cálculos aritméticos, científicos ou financeiros
+accessories-calculator
+
+7
+Calculadora
+mate-calc
+2
+0
+
+
+GTK;Utility;Calculator
+calculadora,MATE,científica,aritmética,financeira,cálculos
+-chili-datetime.desktop
+Chili DateTime
+Aplicativo para sincronizar data e hora
+time
+
+7
+Chili GetDateTime (chili-getdatetime)
+chili-getdatetime
+2
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-util-selector.desktop
+Chili Util Selector
+Aplicativo para selecionar utilitários do Chili Linux
+drive-multidisk
+
+7
+Chili Util Selector (chili-util-selector)
+chili-util-selector
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-wifi-config.desktop
+Chili Wifi Config
+Utilitário para configurar wifi
+network-wireless
+
+7
+Chili Wifi Config (chili-wifi-config)
+chili-wifi-config
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-clonedisk.desktop
+Chili clonedisk
+utility to clone disks
+drive-multidisk
+
+7
+Chili Clonedisk
+chili-clonedisk
+3
+0
+
+
+Utility;Accessories;Chili Apps
+
+-chili-iso2usb.desktop
+Chili iso2usb
+Utilitário para gravar arquivo .ISO em pendrive/dispositivo
+drive-removable-media-usb-pendrive.svg
+
+7
+Chili Iso2usb (chili-iso2usb)
+chili-iso2usb
+2
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-xrandr.desktop
+Chili xrandr
+Utilitário para alterar resolução tela
+preferences-desktop-display
+
+7
+Chili xrandr (chiii-xrandr)
+chili-xrandr
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-lxshortcut.desktop
+Editor de Atalhos
+Criar novo ou alterar uma entrada da área de trabalho
+applications-other
+
+7
+
+lxshortcut -i %f
+6
+0
+
+
+GTK;Utility
+
+-org.gnome.FileRoller.desktop
+File Roller
+Crie e modifique um pacote
+org.gnome.FileRoller
+
+7
+Gerenciador de compactação
+file-roller %U
+2
+0
+file-roller
+
+GTK;GNOME;Utility;Archiving;Compression
+zip,tar,extrair,descompactar
+-plank.desktop
+Plank
+Estupidamente simples.
+plank
+
+7
+Dock
+plank
+0
+0
+
+
+Utility
+
+-xfce4-about.desktop
+Sobre o Xfce
+Informação sobre o ambiente de desktop Xfce
+org.xfce.about
+
+7
+
+xfce4-about
+0
+8
+
+
+Utility;X-XFCE;X-Xfce-Toplevel
+
+-bluetooth-sendto.desktop
+Transferência Bluetooth
+Envie arquivos via Bluetooth
+bluetooth
+
+7
+
+bluetooth-sendto
+6
+0
+
+
+GTK;GNOME;Utility;FileTools
+
+-voidbr-utils-selector.desktop
+VoidBR Utils Selector
+Aplicativo para selecionar utilitários do VoidBR
+drive-multidisk
+
+7
+VoidBR Utils Selector
+voidbr-utils-selector
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;X-VoidBR-Apps
+
+-voidbr-wifi-setup.desktop
+VoidBR Wifi Setup
+Utilitário para configurar rede wifi
+network-wireless
+
+7
+VoidBR Wifi Setup
+voidbr-wifi-setup
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;X-VoidBR-Apps
+
+-voidbr-clonedisk.desktop
+VoidBR clonedisk
+utility to clone disks
+drive-multidisk
+
+7
+VoidBr Clonedisk
+voidbr-clonedisk
+3
+0
+
+
+Utility;Accessories;X-VoidBR-Apps
+
+-voidbr-iso2usb.desktop
+VoidBR iso2usb
+Utilitário para gravar arquivo iso em pendrive/dispositivo
+pendrive.png
+
+7
+VoidBR Iso2usb
+voidbr-iso2usb
+2
+0
+
+
+Settings;DesktopSettigns;Utility;Accessories;X-VoidBR-Apps
+
+-chili-dialog-theme-selector.desktop
+chili-dialog-theme-selector
+Aplicativo seletor de temas para o Dialog
+system-software-install
+
+7
+Chili Dialog Theme Selector (chili-dialog-theme-selector)
+chili-dialog-theme-selector
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+
++Chili Apps
+Chili Apps
+
+chililinux
+chili-apps.directory
+2
+0
+-chili-datetime.desktop
+Chili DateTime
+Aplicativo para sincronizar data e hora
+time
+
+7
+Chili GetDateTime (chili-getdatetime)
+chili-getdatetime
+2
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-util-selector.desktop
+Chili Util Selector
+Aplicativo para selecionar utilitários do Chili Linux
+drive-multidisk
+
+7
+Chili Util Selector (chili-util-selector)
+chili-util-selector
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-wifi-config.desktop
+Chili Wifi Config
+Utilitário para configurar wifi
+network-wireless
+
+7
+Chili Wifi Config (chili-wifi-config)
+chili-wifi-config
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-clonedisk.desktop
+Chili clonedisk
+utility to clone disks
+drive-multidisk
+
+7
+Chili Clonedisk
+chili-clonedisk
+3
+0
+
+
+Utility;Accessories;Chili Apps
+
+-chili-iso2usb.desktop
+Chili iso2usb
+Utilitário para gravar arquivo .ISO em pendrive/dispositivo
+drive-removable-media-usb-pendrive.svg
+
+7
+Chili Iso2usb (chili-iso2usb)
+chili-iso2usb
+2
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-xrandr.desktop
+Chili xrandr
+Utilitário para alterar resolução tela
+preferences-desktop-display
+
+7
+Chili xrandr (chiii-xrandr)
+chili-xrandr
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+-chili-dialog-theme-selector.desktop
+chili-dialog-theme-selector
+Aplicativo seletor de temas para o Dialog
+system-software-install
+
+7
+Chili Dialog Theme Selector (chili-dialog-theme-selector)
+chili-dialog-theme-selector
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;Chili Apps;Big Apps
+
+
++Science
+Ciência
+Software científico
+applications-science
+lxde-science.directory
+2
+4
+
++Development
+Desenvolvimento
+Ferramentas para desenvolvimento de software
+applications-development
+lxde-development.directory
+2
+0
+-yad-icon-browser.desktop
+Navegador de ícones
+Inspecionar ícone tema do GTK
+yad
+
+7
+
+yad-icon-browser
+2
+0
+
+
+GTK;Development
+
+
++Education
+Educativo
+Software educativo
+applications-science
+lxde-education.directory
+2
+4
+
++Office
+Escritório
+Aplicações de produtividade
+applications-office
+lxde-office.directory
+2
+4
+
++Graphics
+Gráficos
+Aplicativos gráficos
+applications-graphics
+lxde-graphics.directory
+2
+0
+-gpicview.desktop
+GPicView
+Visualize suas imagens de forma fácil
+gpicview
+
+7
+Visualizador de imagens
+gpicview %u
+2
+0
+
+
+GTK;Graphics;Viewer
+
+
++Internet
+Internet
+Programas para acesso à Internet
+applications-internet
+lxde-network.directory
+2
+0
+-org.kde.bluedevilwizard.desktop
+Adicionar dispositivo Bluetooth
+Adicionar dispositivo Bluetooth
+preferences-system-bluetooth
+
+7
+Adicionar dispositivo Bluetooth
+bluedevil-wizard %U
+4
+0
+
+
+Qt;KDE;X-Bluetooth;Network
+
+-firefox.desktop
+Navegador Web Firefox
+Navegue na Internet
+firefox
+
+7
+Navegador Web
+firefox %u
+2
+0
+
+
+GNOME;GTK;Network;WebBrowser
+Internet,WWW,Browser,Web,Explorador,Navegador
+-org.kde.bluedevilsendfile.desktop
+Transferência de arquivo por Bluetooth
+Enviar arquivos por Bluetooth
+preferences-system-bluetooth
+
+7
+Transferência de arquivo por Bluetooth
+bluedevil-sendfile -k %u
+4
+0
+
+
+Qt;KDE;X-Bluetooth;Network
+
+
++Games
+Jogos
+Jogos e diversões
+applications-games
+lxde-game.directory
+2
+4
+
++Multimedia
+Multimédia
+Aplicações de áudio e vídeo
+applications-multimedia
+lxde-audio-video.directory
+2
+0
+-org.pulseaudio.pavucontrol.desktop
+Controle de volume
+Ajuste o nível do volume
+org.pulseaudio.pavucontrol
+
+7
+Controle de volume
+pavucontrol
+2
+0
+
+
+AudioVideo;Audio;Mixer;GTK;Settings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings
+pavucontrol,PulseAudio,Microphone,Volume,Fade,Balance,Headset,Speakers,Headphones,Audio,Mixer,Output,Input,Devices,Playback,Recording,System Sounds,Sound Card,Settings,Preferences
+-pasystray.desktop
+PulseAudio System Tray
+An Applet for PulseAudio
+pasystray
+
+7
+
+pasystray
+2
+0
+
+
+AudioVideo;Audio
+pulseaudio,tray,system tray,applet,volume
+-mpv.desktop
+mpv Media Player
+Play movies and songs
+mpv
+
+7
+Multimedia player
+mpv --player-operation-mode=pseudo-gui -- %U
+0
+0
+mpv
+
+AudioVideo;Audio;Video;Player;TV
+mpv,media,player,video,audio,tv
+
++System
+Sistema
+Ferramentas e monitorização do sistema
+applications-system
+lxde-system.directory
+2
+0
+-gparted.desktop
+GParted
+Crie, reorganize e exclua partições
+gparted
+
+7
+Editor de Partições
+/usr/bin/gparted-pkexec %f
+2
+0
+
+
+GNOME;System;Filesystem
+Partição,Formatar,Criar,Excluir,Redimensionar
+-lxtask.desktop
+Gerenciador de tarefas
+Gerencie processos em execução
+utilities-system-monitor
+
+7
+Gerenciador de processos
+lxtask
+2
+0
+
+
+GTK;System;Monitor
+tarefa,finalizar,suspender,processador,memória,monitoração,performance
+-htop.desktop
+Htop
+Mostra os processos do sistema
+htop
+
+7
+Visualizador de processos
+htop
+1
+0
+
+
+System;Monitor;ConsoleOnly
+system,process,task,resources,monitoring,performance
+-lxterminal.desktop
+LXTerminal
+Use a linha de comando
+lxterminal
+
+7
+Terminal
+lxterminal
+0
+0
+lxterminal
+
+GTK;System;TerminalEmulator
+console,linha de comando,executar
+-gkbd-keyboard-display.desktop
+Layout de teclado
+Pré-visualize layouts de teclado
+preferences-desktop-keyboard
+
+7
+
+gkbd-keyboard-display
+6
+2
+
+
+GNOME;GTK;Core;System
+
+-org.gnome.SystemMonitor.desktop
+Monitor do sistema
+Veja os processos atuais e monitore o estado do sistema
+org.gnome.SystemMonitor
+
+7
+
+gnome-system-monitor
+2
+-5
+gnome-system-monitor
+
+GNOME;GTK;System;Monitor
+Monitor,Sistema,Processo,CPU,Memória,Rede,Histórico,Uso,Desempenho,Performance,Tarefa,Gerenciador,Atividade
+-gnome-system-monitor-kde.desktop
+Monitor do sistema GNOME
+Veja os processos atuais e monitore o estado do sistema
+org.gnome.SystemMonitor
+
+7
+
+gnome-system-monitor
+2
+4
+gnome-system-monitor
+
+GNOME;GTK;System;Monitor
+Monitor,Sistema,Processo,CPU,Memória,Rede,Histórico,Uso
+-octoxbps.desktop
+OctoXBPS
+Adicione ou remova programas instalados no sistema
+octopi
+
+7
+Adicionar/remover programas
+/usr/bin/octoxbps
+2
+0
+
+
+System;Tools
+
+-octoxbps-notifier.desktop
+OctoXBPS Notifier
+
+octopi
+
+7
+
+/usr/bin/octoxbps-notifier
+2
+0
+
+
+GNOME;GTK;System
+
+-pcmanfm.desktop
+PCMan Gerenciador de Arquivos
+Navegue pelo sistema de arquivos e gerencie arquivos e pastas
+system-file-manager
+
+7
+Gerenciador de arquivos
+pcmanfm %U
+2
+0
+
+
+GTK;System;Core;FileTools;FileManager
+
+-xfce4-terminal.desktop
+Terminal Xfce
+Emulador de terminal
+org.xfce.terminal
+
+7
+Emulador de terminal
+xfce4-terminal
+2
+0
+
+
+GTK;System;TerminalEmulator
+terminal,linha de comando,prompt,cli,cmd,xterm,bash,shell,dos
+-uxterm.desktop
+UXTerm
+xterm wrapper for Unicode environments
+xterm-color_48x48
+
+7
+
+uxterm
+0
+0
+
+
+System;TerminalEmulator
+shell,prompt,command,commandline,cmd
+-voidbr-iso-writer.desktop
+VoidBR ISO Writer
+Grave imagens ISO em pendrives USB
+media-optical
+
+7
+Gravador de ISO
+voidbr-iso-writer %f
+2
+0
+
+
+Utility;System;GTK;X-VoidBR-Apps
+iso,usb,pendrive,dd,gravar,boot,bootable
+-voidbr-webapps.desktop
+VoidBR WebApps
+Aplicativo para gerenciar e criar webapps
+voidbr-webapps
+
+7
+Gerenciador de WebApps
+/usr/local/bin/voidbr-webapps
+0
+0
+
+
+System;Utility;VoidBR WebApps;X-VoidBR-Apps
+
+-xterm.desktop
+XTerm
+standard terminal emulator for the X window system
+xterm-color_48x48
+
+7
+
+xterm
+0
+0
+
+
+System;TerminalEmulator
+shell,prompt,command,commandline,cmd
+-org.freedesktop.Xwayland.desktop
+Xwayland
+A rootful instance of the Xwayland X11 server
+
+
+7
+
+/usr/bin/Xwayland -decorate -displayfd 1
+4
+0
+
+
+System
+
+-kitty.desktop
+kitty
+Fast, feature-rich, GPU based terminal
+kitty
+
+7
+Terminal emulator
+kitty
+2
+0
+kitty
+
+System;TerminalEmulator
+
+-kitty-open.desktop
+kitty URL Launcher
+Open URLs with kitty
+kitty
+
+7
+Terminal emulator
+kitty +open %U
+6
+0
+kitty
+
+System;TerminalEmulator
+
+-rxvt-unicode.desktop
+rxvt-unicode
+An Unicode capable rxvt clone
+rxvt-unicode
+
+7
+
+urxvt
+0
+0
+
+
+Application;System;TerminalEmulator
+
+
++VoidBR Apps
+VoidBR Apps
+
+voidbr-apps
+voidbr-apps.directory
+2
+0
+-voidbr-iso-writer.desktop
+VoidBR ISO Writer
+Grave imagens ISO em pendrives USB
+media-optical
+
+7
+Gravador de ISO
+voidbr-iso-writer %f
+2
+0
+
+
+Utility;System;GTK;X-VoidBR-Apps
+iso,usb,pendrive,dd,gravar,boot,bootable
+-voidbr-utils-selector.desktop
+VoidBR Utils Selector
+Aplicativo para selecionar utilitários do VoidBR
+drive-multidisk
+
+7
+VoidBR Utils Selector
+voidbr-utils-selector
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;X-VoidBR-Apps
+
+-voidbr-webapps.desktop
+VoidBR WebApps
+Aplicativo para gerenciar e criar webapps
+voidbr-webapps
+
+7
+Gerenciador de WebApps
+/usr/local/bin/voidbr-webapps
+0
+0
+
+
+System;Utility;VoidBR WebApps;X-VoidBR-Apps
+
+-voidbr-wifi-setup.desktop
+VoidBR Wifi Setup
+Utilitário para configurar rede wifi
+network-wireless
+
+7
+VoidBR Wifi Setup
+voidbr-wifi-setup
+3
+0
+
+
+DesktopSettings;Utility;Accessories;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;X-VoidBR-Apps
+
+-voidbr-clonedisk.desktop
+VoidBR clonedisk
+utility to clone disks
+drive-multidisk
+
+7
+VoidBr Clonedisk
+voidbr-clonedisk
+3
+0
+
+
+Utility;Accessories;X-VoidBR-Apps
+
+-voidbr-iso2usb.desktop
+VoidBR iso2usb
+Utilitário para gravar arquivo iso em pendrive/dispositivo
+pendrive.png
+
+7
+VoidBR Iso2usb
+voidbr-iso2usb
+2
+0
+
+
+Settings;DesktopSettigns;Utility;Accessories;X-VoidBR-Apps
+
+
++VoidBR WebApps
+VoidBR WebApps
+
+voidbr-webapps
+voidbr-webapps.directory
+2
+4
+
++Other
+Outros
+Aplicações que não se enquadram noutras categorias
+applications-other
+lxde-other.directory
+2
+0
+-user-dirs-update-gtk.desktop
+Atualizar pastas de usuário
+Atualiza o nome de pastas comuns para se adequar à localização atual
+
+
+7
+
+xdg-user-dirs-gtk-update
+4
+67
+
+
+
+
+-lxde-screenlock.desktop
+Bloquear tela
+Bloqueie sua tela
+system-lock-screen
+
+7
+
+lxlock
+4
+0
+lxlock
+
+
+
+-kcm_bluetooth.desktop
+Bluetooth
+
+preferences-system-bluetooth
+
+7
+
+systemsettings kcm_bluetooth
+4
+0
+
+
+
+
+-lxde-logout.desktop
+Desligar
+Desligar, reiniciar, sair da sessão etc.
+gnome-logout
+
+7
+
+lxde-logout
+4
+0
+lxsession-logout
+
+
+
+-google-maps-geo-handler.desktop
+Google Maps
+
+map-globe
+
+7
+
+kde-geo-uri-handler --coordinate-template "https://www.google.com/maps/@<LAT>,<LON>,<Z>z" --query-template "https://www.google.com/maps/search/<Q>" --fallback "https://www.google.com/maps/" %u
+6
+0
+
+
+
+
+-org.kde.kiod6.desktop
+KIO
+
+dialog-password
+
+7
+
+kiod6
+4
+0
+
+
+
+
+-ktelnetservice6.desktop
+KTelnetService
+
+utilities-terminal
+
+7
+
+ktelnetservice6 %u
+4
+0
+
+
+
+
+-nm-applet.desktop
+Miniaplicativo gerenciador de redes
+Controle suas conexões de rede
+nm-device-wireless
+
+7
+
+nm-applet
+4
+-7
+
+
+
+
+-openstreetmap-geo-handler.desktop
+OpenStreetMap
+
+map-globe
+
+7
+
+kde-geo-uri-handler --coordinate-template "https://www.openstreetmap.org/#map=<Z>/<LAT>/<LON>" --query-template "https://www.openstreetmap.org/search?query=<Q>" --fallback "https://www.openstreetmap.org" %u
+6
+0
+
+
+
+
+-openbox.desktop
+Openbox
+
+openbox
+
+7
+
+openbox
+4
+0
+
+
+
+
+-pipewire.desktop
+PipeWire
+Start PipeWire
+pipewire
+
+7
+
+pipewire
+4
+0
+
+
+
+
+-pipewire-pulse.desktop
+PipeWire pulse
+Start the PipeWire pulse server
+pipewire-pulse
+
+7
+
+pipewire-pulse
+4
+0
+
+
+
+
+-xdg-desktop-portal-gtk.desktop
+Portal
+
+applications-system-symbolic
+
+7
+
+/usr/libexec/xdg-desktop-portal-gtk
+4
+0
+
+
+
+
+-gcr-prompter.desktop
+Prompt de acesso
+Destrave acesso a senhas e outros segredos
+security-medium
+
+7
+
+/usr/libexec/gcr-prompter
+4
+0
+
+
+
+
+-org.kde.ksecretd.desktop
+Serviço de carteiras do KDE
+
+kwalletmanager
+
+7
+
+ksecretd
+4
+0
+
+
+
+
+-gcr-viewer.desktop
+Visualize um arquivo
+
+
+
+7
+
+/usr/bin/gcr-viewer
+4
+0
+
+
+
+
+-wireplumber.desktop
+WirePlumber
+Start WirePlumber
+pipewire
+
+7
+
+wireplumber
+4
+0
+
+
+
+
+-org.gnome.Zenity.desktop
+Zenity
+Exibe caixas de diálogo da linha de comando
+
+
+7
+
+zenity
+6
+0
+
+
+
+
+-wheelmap-geo-handler.desktop
+wheelmap.org
+
+map-globe
+
+7
+
+kde-geo-uri-handler --coordinate-template "https://wheelmap.org/?lat=<LAT>&lon=<LON>" --query-template "https://wheelmap.org/search?q=<Q>" --fallback "https://wheelmap.org" %u
+6
+0
+
+
+
+
+
+-
++Settings
+Preferências
+Preferências da área de trabalho
+preferences-desktop
+lxde-settings.directory
+2
+0
+-blueman-adapters.desktop
+Adaptadores de Bluetooth
+Definir as Propriedades do Adaptador de Bluetooth
+blueman-device
+
+7
+
+blueman-adapters
+2
+40
+
+
+X-XFCE;Settings;HardwareSettings;X-XFCE-SettingsDialog;GTK
+
+-libfm-pref-apps.desktop
+Aplicativos Preferidos
+Selecione as aplicações que serão chamadas com click em Web link ou endereço de e-mail
+preferences-desktop
+
+7
+
+libfm-pref-apps
+2
+1
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+
+-lxsession-default-apps.desktop
+Aplicativos padrões no LXSession
+Altere os aplicativos padrões no LXDE
+preferences-desktop
+
+7
+
+lxsession-default-apps
+0
+1
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+
+-blueberry.desktop
+Bluetooth
+Definir configurações de bluetooth
+bluetooth
+
+7
+
+blueberry
+2
+-71
+
+
+GTK;GNOME;Settings;HardwareSettings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings
+
+-nm-connection-editor.desktop
+Configuração avançada de rede
+Gerencie e altere suas configurações de conexão de rede
+preferences-system-network
+
+7
+
+nm-connection-editor
+2
+0
+
+
+GNOME;GTK;Settings;X-GNOME-NetworkSettings;X-GNOME-Utilities
+
+-lxsession-edit.desktop
+Configurações da Sessão de Desktop
+Gerenciar aplicações carregadas na sessão desktop
+preferences-desktop
+
+7
+
+lxsession-edit
+0
+1
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+
+-lightdm-gtk-greeter-settings.desktop
+Configurações do LightDM GTK+ Greeter
+Configure o LightDM GTK+ Greeter
+lightdm-gtk-greeter-settings
+
+7
+
+lightdm-gtk-greeter-settings-pkexec
+0
+0
+
+
+GNOME;GTK;Settings;System;Utility;X-XFCE-SettingsDialog;X-XFCE-SystemSettings
+Configuration,Utility
+-yad-settings.desktop
+Configurações do YAD
+Interface simples para editar as configurações do YAD
+yad
+
+7
+
+yad-settings
+2
+0
+
+
+GTK;Settings
+
+-lxrandr.desktop
+Configurações do monitor
+Modifique a resolução da tela e configure monitores externos
+video-display
+
+7
+
+lxrandr
+0
+-47
+
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+tela,monitor,tv,projetor,xrandr,taxa de atualização,posição,ativar,desativar
+-xfce4-terminal-settings.desktop
+Configurações do terminal do Xfce
+Configurar o terminal do Xfce
+org.xfce.terminal-settings
+
+7
+
+xfce4-terminal --preferences
+6
+-3
+
+
+XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-PersonalSettings
+terminal,definições,preferências,configuração,configurar
+-org.pulseaudio.pavucontrol.desktop
+Controle de volume
+Ajuste o nível do volume
+org.pulseaudio.pavucontrol
+
+7
+Controle de volume
+pavucontrol
+2
+0
+
+
+AudioVideo;Audio;Mixer;GTK;Settings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings
+pavucontrol,PulseAudio,Microphone,Volume,Fade,Balance,Headset,Speakers,Headphones,Audio,Mixer,Output,Input,Devices,Playback,Recording,System Sounds,Sound Card,Settings,Preferences
+-blueman-manager.desktop
+Gerenciador de Bluetooth
+Gerenciador de Bluetooth Blueman
+blueman
+
+7
+
+blueman-manager
+2
+0
+
+
+GTK;GNOME;Settings;HardwareSettings
+
+-lxappearance.desktop
+Personalizar a Aparência e o Comportamento
+Configurações da aparência e do comportamento da área de trabalho e dos programas aplicativos
+preferences-desktop-theme
+
+7
+Personalizar a Aparência e o Comportamento
+lxappearance
+2
+-47
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+janelas,preferências,configurações,tema,estilo,aparência,comportamento
+-pcmanfm-desktop-pref.desktop
+Preferências da Área de Trabalho
+Altere os papéis de parede e o comportamento do gerenciador da área de trabalho
+user-desktop
+
+7
+
+pcmanfm --desktop-pref
+2
+-47
+
+
+Settings;GTK;DesktopSettings;X-LXDE-Settings
+
+-qt5ct.desktop
+Qt5 Settings
+Qt5 Configuration Tool
+preferences-desktop-theme
+
+7
+
+qt5ct
+0
+0
+
+
+Settings;DesktopSettings;Qt
+settings,desktop,qt,qtsettings,qt5
+-qt6ct.desktop
+Qt6 Settings
+Qt6 Configuration Tool
+preferences-desktop-theme
+
+7
+
+qt6ct
+0
+0
+
+
+Settings;DesktopSettings;Qt
+settings,desktop,qt,qtsettings,qt6
+-lxinput.desktop
+Teclado e mouse
+Configure o teclado, o mouse e outros dispositivos de entrada
+input-keyboard
+
+7
+
+lxinput
+2
+-47
+
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+
+-voidbr-iso2usb.desktop
+VoidBR iso2usb
+Utilitário para gravar arquivo iso em pendrive/dispositivo
+pendrive.png
+
+7
+VoidBR Iso2usb
+voidbr-iso2usb
+2
+0
+
+
+Settings;DesktopSettigns;Utility;Accessories;X-VoidBR-Apps
+
+
+
